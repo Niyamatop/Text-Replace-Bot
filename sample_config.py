@@ -4,11 +4,11 @@ class Config(object):
     
     DOWNLOAD_LOCATION = "./DOWNLOADS"
 
-    BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
+    BOT_TOKEN = os.environ.get("7187592356:AAEcLMZc_lLffrhpTUXjCSLeeSQUKXzsnyU", "")
 
-    APP_ID = int(os.environ.get("APP_ID", 12345))
+    APP_ID = int(os.environ.get("28298365", 12345))
 
-    API_HASH = os.environ.get("API_HASH", "")    
+    API_HASH = os.environ.get("9647ab7fc03a8a93f701a5528b2f206e", "")    
     
     CAPTION_TEXT = os.environ.get("CAPTION_TEXT", "")
 
